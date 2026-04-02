@@ -11,7 +11,7 @@ Estes documentos terão conteúdos relacionado aos meus estudos de programação
 6. [Marcelo Pereira - flexbox](https://github.com/marcelopoars/flexbox)
 7. [ProgramadorBR](https://programadorbr.com)
 
-> OBS: Essa lista podera aumentar caso o numero de fontes de meu conteudo aumento.
+> OBS: Essa lista poderá aumentar caso o numero de fontes de meu conteúdo aumento.
 
 ## Indice
 
