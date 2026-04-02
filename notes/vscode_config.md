@@ -18,20 +18,4 @@ Nesse arquivo vamos começar a ver as teclas de atalho que uso no dia dia. Decid
 
 teste10
 teste11
-teste11
-teste11
-teste11
-teste11
-teste11
-teste11
-teste11
-teste11
-teste11
-teste11
-teste11
-teste11
-teste11
-teste11
-teste11
-teste11
-teste11
+
