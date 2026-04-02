@@ -25,4 +25,5 @@ Estes documentos terão conteúdos relacionado aos meus estudos de programação
 - [Git](notes/git.md)
 - [Markdown](notes/markdown.md)
 - [Dicas de Emmet em HTML no VSCODE](notes/Emmet.md)
+- [Teclas de atalho do vscode e configuração]()
 
