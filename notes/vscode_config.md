@@ -20,3 +20,5 @@ Nesse arquivo vamos começar a ver as teclas de atalho que uso no dia dia. Decid
 teste
 teste2
 teste3
+
+teste
