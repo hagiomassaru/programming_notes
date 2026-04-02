@@ -15,5 +15,4 @@ Nesse arquivo vamos começar a ver as teclas de atalho que uso no dia dia. Decid
 ![Exemplo](/notes/images/Peek%2001-04-2026%2023-09.gif)
 
 ### Fonte -> [código fonte tv](https://www.youtube.com/watch?v=ODc-55gm_Mc&t=277s) 
-<<<<<<< HEAD
 
