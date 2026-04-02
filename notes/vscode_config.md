@@ -16,19 +16,3 @@ Nesse arquivo vamos começar a ver as teclas de atalho que uso no dia dia. Decid
 
 ### Fonte -> [código fonte tv](https://www.youtube.com/watch?v=ODc-55gm_Mc&t=277s) 
 
-
-teste
-teste2
-teste3
-
-teste4
-teste5
-teste6
-teste7
-teste 8
-teste10
-teste branchs
-teste branchs2
-teste branchs3
-teste branchs4
-teste branchs5
